@@ -1,2 +1,1 @@
-# Web-Development-Projects
-for the sake of acquiring skills inroder to get a decent job 
+just a beginner project to get hands on experience with web develpoment basics
